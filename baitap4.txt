@@ -1,0 +1,14 @@
+I.Mô hình Waterfall phù hợp với các dự án có các yếu tố sau:
+1. Yêu cầu rõ ràng và ổn định: Mô hình Waterfall yêu cầu một sự hiểu biết rõ ràng về yêu cầu dự án từ đầuNếu yêu cầu thay đổi thường xuyên, mô hình này có thể không phù hợp.
+2. Hiểu về công nghệ phát triển: Đội ngũ phát triển cần phải hiểu rõ về công nghệ được sử dụng trong dự án.
+3. Tài nguyên phát triển phong phú và chuyên môn kỹ thuật cao: Đội ngũ phát triển cần có đủ tài nguyên và chuyên môn để triển khai dự án.
+4. Dự án nhỏ và ngắn hạn: Mô hình Waterfall thường phù hợp với các dự án nhỏ và ngắn hạn.
+Tuy nhiên, đối với các dự án lớn và phức tạp, mô hình Agile có thể là một lựa chọn tốt hơn để thích ứng nhanh chóng với sự biến động của thị trường và yêu cầu của khách hàng.
+
+II.Mô hình Waterfall có thể được áp dụng trong nhiều lĩnh vực khác nhau, nhưng đặc biệt phù hợp với các lĩnh vực sau:
+
+1. **Công nghệ thông tin**: Mô hình Waterfall được tạo ra với mục đích quản lý vòng đời phát triển phần mềm. Nó phù hợp với các dự án phần mềm có yêu cầu rõ ràng và ổn định
+2. **Sản xuất**: Mô hình Waterfall cũng có thể được áp dụng trong các lĩnh vực sản xuất khác. Trong các dự án sản xuất, các giai đoạn của dự án thường được thực hiện theo một quy trình tuần tự và liên tiếp.
+
+3. **Xây dựng**: Mô hình Waterfall thích hợp với dự án xây dựng do yêu cầu của chúng có thể được định nghĩa rõ ràng. Quy trình thiết kế và triển khai  có vị trí quan trọng trong các dự án xây dựng, và mô hình Waterfall cho phép quy trình thiết kế có khả năng chi tiết và chính xác.
+4.**Kinh doanh**: Mô hình Waterfall phù hợp với các dự án như phần mềm quản lý doanh nghiệp, hệ thống quản lý khách hàng .Trước khi bắt đầu dự án, tất cả yêu cầu, giao diện người dùng, quy trình kinh doanh và các tiêu chuẩn phải được xác định và khẳng định rõ ràng.
