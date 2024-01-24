@@ -30,9 +30,9 @@ Vd: customer.
 +SA: thiết kế kiến trúc hệ thống , structure, tech stack như thế nào ?, data flow, database design ?, tương tác với hệ thống khác như thế nào? 
 +PM
 +High level design (xem nó chạy từ đâu đến đâu)
-	Output: 
+	Output: bản mô tả hệ thống một cách chi tiết
 4.Implementation
-	Input: 
+	Input: bản mô tả hệ thống chi tiết
 - Participants:
 +PM: kiểm tra tiến độ
 +Developer: Frontend -> source code
@@ -51,7 +51,6 @@ Vd: customer.
 - api test: postman
 Kết quả test
 6.Hand over
-	Input: Kết quả test
 - Participants:
 +Stake holder: Customer
 +Traning staff
